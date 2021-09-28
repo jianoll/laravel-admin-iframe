@@ -1,14 +1,14 @@
 {
-    "name": "ichynul/iframe-tabs",
+    "name": "jianoll/laravel-admin-iframe",
     "description": "laravel-admin extension iframe-tabs",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/ichynul/iframe-tabs",
+    "homepage": "https://github.com/jianoll/laravel-admin-iframe",
     "license": "MIT",
     "authors": [
         {
-            "name": "ichynul",
-            "email": "ichynul@outlook.com"
+            "name": "jianoll",
+            "email": "loknoll@163.com"
         }
     ],
     "require": {
